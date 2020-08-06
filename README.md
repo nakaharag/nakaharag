@@ -1,16 +1,37 @@
-### Hi there 👋
+# Namastê, Gustavo Nakahara :full_moon_with_face:
 
-<!--
-**nakaharag/nakaharag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you can find a bit of my most recent work; 
 
-Here are some ideas to get you started:
+## :atom: Stacks
+**:fleur_de_lis: Very good at:**
+- PHP
+- TypeScript
+- VueJS
+- MySQL
+- NoSQL
+- HTML/CSS/LESS/SASS
+- VBA
+- Debugging & Solving Software Problems
+- Linux
+- Software Architecture
+- Design Patterns
+- UX/UI
+- SCRUM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**:small_blue_diamond: Familiar with:**
+- Docker
+- JAVA EE
+- C/C++
+- AngularJS
+- ExtJS
+- NodeJS
+
+## 📖 Academics
+- [x] :mortar_board: Information Security - FATEC
+- [ ] :desktop_computer: Software Engineering - UNICAMP
+- [ ] :chart_with_upwards_trend: MBA in Project Management - USP
+
+## :pager: Reach me
+[Linkedin](https://www.linkedin.com/in/gustavonakahara/)  |
+[Medium](https://medium.com/@nakaharag)  |
+[Instagram](https://www.instagram.com/nakaharag/)
