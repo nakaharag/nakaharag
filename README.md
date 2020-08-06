@@ -13,12 +13,13 @@ Here you can find a bit of my most recent work;
 - VBA
 - Debugging & Solving Software Problems
 - Linux
-- Software Architecture
+- Computer Hardware
 - Design Patterns
 - UX/UI
 - SCRUM
 
 **:small_blue_diamond: Familiar with:**
+- Software Architecture
 - Docker
 - JAVA EE
 - C/C++
