@@ -1,5 +1,6 @@
 # Namastê, Gustavo Nakahara :full_moon_with_face:
 
+I'm 30 years old.
 Here you can find a bit of my most recent work; 
 
 ## :atom: Stacks
@@ -11,8 +12,10 @@ Here you can find a bit of my most recent work;
 - NoSQL
 - HTML/CSS/LESS/SASS
 - VBA
+- WordPress
 - Debugging & Solving Software Problems
 - Linux
+- AWS | Digital Ocean | Azure
 - Computer Hardware
 - Design Patterns
 - UX/UI
@@ -23,13 +26,15 @@ Here you can find a bit of my most recent work;
 - Docker
 - JAVA EE
 - C/C++
+- MongoDB
+- Redis
 - AngularJS
 - ExtJS
 - NodeJS
 
 ## 📖 Academics
 - [x] :mortar_board: Information Security - FATEC
-- [ ] :desktop_computer: Software Engineering - UNICAMP
+- [x] :desktop_computer: Software Engineering - UNICAMP
 - [ ] :chart_with_upwards_trend: MBA in Project Management - USP
 
 ## :pager: Reach me
