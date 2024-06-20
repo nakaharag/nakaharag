@@ -1,12 +1,13 @@
 # Namastê, Gustavo Nakahara :full_moon_with_face:
 
-I'm 32 years old.
+I'm 33 years old. Building scalable, flexible software since 2015
 Here you can find a bit of my most recent work; 
 
 ## :atom: Stacks
 **:fleur_de_lis: Very good at:**
 - PHP
 - TypeScript
+- Node.js
 - VueJS
 - React
 - MySQL
@@ -15,23 +16,22 @@ Here you can find a bit of my most recent work;
 - VBA
 - Docker
 - WordPress
+- MongoDB
+- Redis
 - Debugging & Solving Software Problems
 - Linux
 - AWS | Digital Ocean | Azure
 - Computer Hardware
 - Design Patterns
-- UX/UI
+- Software Architecture
 - SCRUM
 
 **:small_blue_diamond: Familiar with:**
-- Software Architecture
+- UX/UI
 - JAVA EE
 - C/C++
-- MongoDB
-- Redis
 - AngularJS
 - ExtJS
-- NodeJS
 
 ## 📖 Academics
 - [x] :mortar_board: Information Security - FATEC
