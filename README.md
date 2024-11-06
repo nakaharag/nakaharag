@@ -6,7 +6,7 @@ Here you can find a bit of my most recent work;
 ## :atom: Stacks
 Node.js | Vue.js | React | Typescript | PHP Laravel | Kafka | Docker | HTML | CSS | Jest | PHPUnit | JUnit
 
-:fleur_de_lis: Navigate through my projects:
+## :fleur_de_lis: Navigate through my projects:
 
 ### PHP
 - [nakastra-fullstack](https://github.com/nakaharag/nakastra-fullstack)
