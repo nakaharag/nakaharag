@@ -4,6 +4,8 @@ I'm 33 years old. Building scalable, flexible software since 2015
 Here you can find a bit of my most recent work; 
 
 ## :atom: Stacks
+Node.js | Vue.js | React | Typescript | PHP Laravel | Kafka | Docker | HTML | CSS | Jest | PHPUnit | JUnit
+
 :fleur_de_lis: Navigate through my projects:
 
 ### PHP
@@ -20,7 +22,7 @@ Here you can find a bit of my most recent work;
 ### Vue
 - [laravel-vue-forecast](https://github.com/nakaharag/laravel-vue-forecast)
 - [vuetify-forecast](https://github.com/nakaharag/vuetify-forecast)
-- kmc-web-app](https://github.com/nakaharag/kmc-web-app)
+- [kmc-web-app](https://github.com/nakaharag/kmc-web-app)
 - [ahm-web-app](https://github.com/nakaharag/ahm-web-app)
 
 ### Java
