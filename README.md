@@ -24,10 +24,12 @@ Node.js | Vue.js | React | Typescript | PHP Laravel | Java | Kafka | Docker | HT
 | [**react-movie-listing**](https://github.com/nakaharag/react-movie-listing) | Movie search SPA | ⚛️ React |
 | [**twenty-one-showdown**](https://github.com/nakaharag/twenty-one-showdown) | Blackjack-style game with unit tests | 🟩 Express, ⚛️ React, 🧪 Jest |
 | [**apistackoverflow**](https://github.com/nakaharag/apistackoverflow) | REST API clone | ☕ Java (Spring Boot) |
+| [**device-manager-restapi**](https://github.com/nakaharag/device-manager-restapi) | Simple REST API | ☕ Java (Spring Boot) |
 | [**speech-to-text**](https://github.com/nakaharag/speech-to-text) | Whisper AI audio transcription | 🤖 Python, OpenAI |
 | [**kafka-express-app**](https://github.com/nakaharag/kafka-express-app) | Kafka pipeline demo | 🟩 Node.js, 🐘 Kafka |
 | [**nestjs-kafka**](https://github.com/nakaharag/nestjs-kafka) | Kafka + NestJS microservice | 🐱‍🏍 NestJS, 🐘 Kafka |
 | [**selenium-mvn-test**](https://github.com/nakaharag/selenium-mvn-test) | Automated testing suite | ☕ Java, 🧪 Selenium |
+
 
 ---
 
