@@ -1,4 +1,4 @@
-# Namastê, Gustavo Nakahara :full_moon_with_face:
+# Namastê, Gustavo Nakahara :space_invader:
 
 I'm 34 years old. Building scalable, flexible software since 2015
 Here you can find a bit of my most recent work; 
